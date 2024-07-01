@@ -2,6 +2,9 @@
 <p align="center"> --- 飞机大战单机版 ---</p>
 
 ---
+## 程序演示
+见 [release](https://github.com/Ruafafa/Airplane-War/releases/tag/windows)
+
 ## 背景介绍
 
 ### 问题描述：设计一款单机版的射击类游戏
