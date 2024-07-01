@@ -11,6 +11,7 @@
     <img src="https://ruafafa-photobed.oss-cn-beijing.aliyuncs.com/202407020144760.png" width="100px"/> 图3
     <img src="https://ruafafa-photobed.oss-cn-beijing.aliyuncs.com/202407020144092.png" width="100px"/> 图4
     <img src="https://ruafafa-photobed.oss-cn-beijing.aliyuncs.com/202407020144902.png" width="100px"/> 图5
+    <img src="https://ruafafa-photobed.oss-cn-beijing.aliyuncs.com/202407020149755.png" width="100px"/> 图6
 </p>
 
 ##  操作说明
