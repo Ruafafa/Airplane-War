@@ -1,12 +1,14 @@
-![image](https://github.com/Ruafafa/Airplane-War/assets/108611509/e25f955a-66e1-484a-84a3-a85693f4f550)![image](https://github.com/Ruafafa/Airplane-War/assets/108611509/0ceb7bba-c103-4919-9ab1-f75332b2cde2)<h1 align="center"> Airplane War </h1>
+<h1 align="center"> Airplane War </h1>
 <p align="center"> --- 飞机大战单机版 ---</p>
 
 ---
 ## 程序演示
 游玩下载见 [release](https://github.com/Ruafafa/Airplane-War/releases/tag/windows)
-![](https://ruafafa-photobed.oss-cn-beijing.aliyuncs.com/202407020133081.png)
-![](https://ruafafa-photobed.oss-cn-beijing.aliyuncs.com/202407020134378.png)
 
+<p>
+    <img src="https://ruafafa-photobed.oss-cn-beijing.aliyuncs.com/202407020133081.png" width="100px"/> 图1
+    <img src="https://ruafafa-photobed.oss-cn-beijing.aliyuncs.com/202407020134378.png" width="100px"/> 图2
+</p>
 
 ## 背景介绍
 
