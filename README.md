@@ -8,7 +8,17 @@
 <p>
     <img src="https://ruafafa-photobed.oss-cn-beijing.aliyuncs.com/202407020133081.png" width="100px"/> 图1
     <img src="https://ruafafa-photobed.oss-cn-beijing.aliyuncs.com/202407020134378.png" width="100px"/> 图2
+    <img src="https://ruafafa-photobed.oss-cn-beijing.aliyuncs.com/202407020144760.png" width="100px"/> 图3
+    <img src="https://ruafafa-photobed.oss-cn-beijing.aliyuncs.com/202407020144092.png" width="100px"/> 图4
+    <img src="https://ruafafa-photobed.oss-cn-beijing.aliyuncs.com/202407020144902.png" width="100px"/> 图5
 </p>
+
+##  操作说明
+`WASD` - 控制移动
+`Shift` - 加速移动
+`Esc` - 局内暂停
+`F` - 释放炸弹
+`空格键` - 释放大招
 
 ## 背景介绍
 
