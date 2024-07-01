@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "boss_normal.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 169,
+				"h": 503
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "enemy3_n2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 169,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 167,
+						"h": 251
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 167,
+						"h": 251
+					}
+				},
+				{
+					"filename": "enemy3_n1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 169,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 167,
+						"h": 248
+					},
+					"frame": {
+						"x": 1,
+						"y": 254,
+						"w": 167,
+						"h": 248
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f8345992250057d89ef3e9cdc5a022bc:32b8e8a0131e94af2e66b60109444d26:1d3aa92b8100bd1df54b5981447f604e$"
+	}
+}

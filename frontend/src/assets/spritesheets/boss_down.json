@@ -1,0 +1,170 @@
+{
+	"textures": [
+		{
+			"image": "boss_down.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 996,
+				"h": 261
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "enemy3_down1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 165,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 165,
+						"h": 261
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 165,
+						"h": 261
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "enemy3_down2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 165,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 165,
+						"h": 261
+					},
+					"frame": {
+						"x": 166,
+						"y": 0,
+						"w": 165,
+						"h": 261
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "enemy3_down3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 165,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 165,
+						"h": 260
+					},
+					"frame": {
+						"x": 332,
+						"y": 0,
+						"w": 165,
+						"h": 260
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "enemy3_down4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 165,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 165,
+						"h": 261
+					},
+					"frame": {
+						"x": 498,
+						"y": 0,
+						"w": 165,
+						"h": 261
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "enemy3_down5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 166,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 166,
+						"h": 260
+					},
+					"frame": {
+						"x": 664,
+						"y": 0,
+						"w": 166,
+						"h": 260
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "enemy3_down6.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 166,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 166,
+						"h": 261
+					},
+					"frame": {
+						"x": 830,
+						"y": 0,
+						"w": 166,
+						"h": 261
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:e2fea9f64c03223f77451c9875540f74:c91a9b3a61d1df1e2d46c09beae3b773:07a4c8f966d6209bcd8f096af09a4584$"
+	}
+}

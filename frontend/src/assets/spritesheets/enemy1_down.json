@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "enemy1_down.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 228,
+				"h": 51
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "enemy1_down1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 51
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 51
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 51
+					}
+				},
+				{
+					"filename": "enemy1_down2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 51
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 51
+					},
+					"frame": {
+						"x": 57,
+						"y": 0,
+						"w": 57,
+						"h": 51
+					}
+				},
+				{
+					"filename": "enemy1_down3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 51
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 51
+					},
+					"frame": {
+						"x": 114,
+						"y": 0,
+						"w": 57,
+						"h": 51
+					}
+				},
+				{
+					"filename": "enemy1_down4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 51
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 51
+					},
+					"frame": {
+						"x": 171,
+						"y": 0,
+						"w": 57,
+						"h": 51
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:0d7f10e5661ba3ec66f829ffb2ef6b36:08a45ea06206bb0903a6f801d9a54a4d:e90bf25856b505be8640a2c009fff4f1$"
+	}
+}
